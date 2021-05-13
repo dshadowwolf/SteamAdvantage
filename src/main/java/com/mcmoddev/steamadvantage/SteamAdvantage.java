@@ -27,7 +27,7 @@ public class SteamAdvantage
 
     @EventHandler
 	public void construction(FMLConstructionEvent event) {
-	    PAConfig.init();
+	    SAConfig.init();
 	}
 	
 	@EventHandler
